@@ -1,0 +1,144 @@
+2026-06-03 09:46:33.138631 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:46:42.007604 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:47:22.245321 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:47:22.285316 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:47:28.172777 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:47:34.183003 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:47:36.151159 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:47:46.145793 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:47:56.174453 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:48:00.196603 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:48:10.208327 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:48:14.213157 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:48:20.223505 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:48:30.401469 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:48:42.314280 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:48:48.300350 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:49:24.406131 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:49:36.417006 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:49:38.401343 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:49:42.408285 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:50:00.458053 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:50:06.464002 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:50:12.500977 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:50:24.560786 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:50:28.562874 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:50:30.529264 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:50:36.620548 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:50:40.572977 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:50:42.585680 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:51:00.677148 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:51:04.615007 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:51:22.658692 - 1 validation error for LecturaSensor
+valor
+  Input should be a valid number, unable to parse string as a number [type=float_parsing, input_value='ERROR_SENSOR_STRING', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/float_parsing
+2026-06-03 09:51:34.693330 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:51:42.708584 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:51:44.760055 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
+2026-06-03 09:51:50.768709 - 1 validation error for LecturaSensor
+valor
+  Input should be less than or equal to 100 [type=less_than_equal, input_value=150.0, input_type=float]
+    For further information visit https://errors.pydantic.dev/2.13/v/less_than_equal
